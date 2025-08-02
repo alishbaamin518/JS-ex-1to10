@@ -5,7 +5,7 @@ alert("Error! please entre a valid password");
 alert("Welcome To JS Land...\nHappy Coding");
 //-----------------Question 4---------------------
 alert("Welcome To JS Land");
-alert("Happy Coding!\n⬜ Prevent this page form creating additional dialogs.");;
+alert("Happy Coding!\n⬜ Prevent this page form creating additional dialogs.");
 //-----------------Question 5---------------------
 alert("Hello!I can run JS through my web browser's console");
 //-----------------Question 6---------------------
