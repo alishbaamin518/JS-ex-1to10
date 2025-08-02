@@ -1,42 +1,42 @@
-// //_______________________________chapter 1________________________________________________
-// //-----------------Question 1,2----------------------
-// alert("Error! please entre a valid password");
-// //-----------------Question 3---------------------
-// alert("Welcome To JS Land...\nHappy Coding");
-// //-----------------Question 4---------------------
-// alert("Welcome To JS Land");
-// alert("Happy Coding!\n⬜ Prevent this page form creating additional dialogs.");;
-// //-----------------Question 5---------------------
-// alert("Hello!I can run JS through my web browser's console");
-// //-----------------Question 6---------------------
-// //-----------------Question 7---------------------
-//     //_______________________________chapter 2_____________________________________________
-// //-----------------Question 1---------------------
-// var username ='alishba'
-// //-----------------Question 2---------------------
-// var myname ='Alishba'
-// var father =' M.Amin'
-// var fullname = myname + father
-// console.log(fullname)
-// //-----------------Question 3---------------------
-// var message = 'HELLO WORLD'
-// alert(message)
-// //-----------------Question 4---------------------
-// var studentName = 'Hina'
-// var studentAge = '20 years old'
-// var studentEdu = 'Certified Mobile App Development'
-// alert(studentName);
-// alert(studentAge);
-// alert(studentEdu);
-// //-----------------Question 5---------------------
-// var pizza = 'PIZZA\nPIZZ\nPIZ\nPI\nP';
-// alert(pizza);
-// //-----------------Question 6---------------------
-// var email = 'alishbaamin518@gmail.com'
-// alert("My Email address is " + email)
-// //-----------------Question 7---------------------
-// var book = 'A Smarter Way To Learn JavaScript'
-// alert("I am trying to learn from the " + " BOOK " + book)
+//_______________________________chapter 1________________________________________________
+//-----------------Question 1,2----------------------
+alert("Error! please entre a valid password");
+//-----------------Question 3---------------------
+alert("Welcome To JS Land...\nHappy Coding");
+//-----------------Question 4---------------------
+alert("Welcome To JS Land");
+alert("Happy Coding!\n⬜ Prevent this page form creating additional dialogs.");;
+//-----------------Question 5---------------------
+alert("Hello!I can run JS through my web browser's console");
+//-----------------Question 6---------------------
+//-----------------Question 7---------------------
+    //_______________________________chapter 2_____________________________________________
+//-----------------Question 1---------------------
+var username ='alishba'
+//-----------------Question 2---------------------
+var myname ='Alishba'
+var father =' M.Amin'
+var fullname = myname + father
+console.log(fullname)
+//-----------------Question 3---------------------
+var message = 'HELLO WORLD'
+alert(message)
+//-----------------Question 4---------------------
+var studentName = 'Hina'
+var studentAge = '20 years old'
+var studentEdu = 'Certified Mobile App Development'
+alert(studentName);
+alert(studentAge);
+alert(studentEdu);
+//-----------------Question 5---------------------
+var pizza = 'PIZZA\nPIZZ\nPIZ\nPI\nP';
+alert(pizza);
+//-----------------Question 6---------------------
+var email = 'alishbaamin518@gmail.com'
+alert("My Email address is " + email)
+//-----------------Question 7---------------------
+var book = 'A Smarter Way To Learn JavaScript'
+alert("I am trying to learn from the " + " BOOK " + book)
 //-----------------Question 8---------------------
 document.write("<h1> Yah!! I can write HTML through JavaScript</h1>")
 //-----------------Question 9---------------------
